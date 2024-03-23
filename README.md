@@ -1,1 +1,1 @@
-Simple widodows forms battleship game that has online multiplayer
+Simple windows forms battleship game that has online multiplayer
